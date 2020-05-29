@@ -5,3 +5,4 @@ begin again
 track the change...
 text diff
 test conflict
+a better branch merge stratege
